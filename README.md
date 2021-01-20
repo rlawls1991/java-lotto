@@ -41,12 +41,3 @@
 * LottoNumber - 로또 번호 관리 객체
 * LottoRankEnum - 맞힌 횟수에따른 랭크 반환 객체
 * LottoManualNumber - 수동입력 관리 객체
-
-
-
-
-
-
-
-## 온라인 코드 리뷰 과정
-* [텍스트와 이미지로 살펴보는 온라인 코드 리뷰 과정](https://github.com/next-step/nextstep-docs/tree/master/codereview)
